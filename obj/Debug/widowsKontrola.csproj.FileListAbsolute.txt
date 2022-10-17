@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\widowsKontrola\widowsKontrola\bin\Debug\widowsKontrola.exe.config
+C:\Users\ucenik\source\repos\widowsKontrola\widowsKontrola\bin\Debug\widowsKontrola.exe
+C:\Users\ucenik\source\repos\widowsKontrola\widowsKontrola\bin\Debug\widowsKontrola.pdb
+C:\Users\ucenik\source\repos\widowsKontrola\widowsKontrola\obj\Debug\widowsKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\widowsKontrola\widowsKontrola\obj\Debug\widowsKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\widowsKontrola\widowsKontrola\obj\Debug\widowsKontrola.Form1.resources
+C:\Users\ucenik\source\repos\widowsKontrola\widowsKontrola\obj\Debug\widowsKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\widowsKontrola\widowsKontrola\obj\Debug\widowsKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\widowsKontrola\widowsKontrola\obj\Debug\widowsKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\widowsKontrola\widowsKontrola\obj\Debug\widowsKontrola.exe
+C:\Users\ucenik\source\repos\widowsKontrola\widowsKontrola\obj\Debug\widowsKontrola.pdb
